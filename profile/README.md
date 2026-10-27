@@ -38,7 +38,7 @@ Bu platforma məşhur **Engnovate** platforması ilə tam sinxron və yanaşı (
 | Repozitoriya | Növü | Təsvir və Məqsəd | Keçid |
 | :--- | :--- | :--- | :--- |
 | 🌐 **[SuleimanIELTS.github.io](https://github.com/SuleimanIELTS/SuleimanIELTS.github.io)** | `Public` / `Pages` | **Canlı İnteraktiv Veb Platforma:** Apple minimalist dizayn sistemi, Speaking taymerləri, daxili Audio Recorder, C1/C2 Lexical Vault, Dark/Light rejim və Engnovate Sidecar rejimi. | [Canlı Sayt](https://suleimanielts.github.io) |
-| 🔒 **[SuleimanIELTS](https://github.com/SuleimanIELTS/SuleimanIELTS)** | `Private` / `Core Vault` | **Məxfi Data Mərkəzi və Obsidian LLM Wiki:** 400+ xam tədris materialı (tələbə esseləri, Cambridge PDF-ləri, iş vərəqləri), 53 səhifəlik əlaqəli Obsidian bilik şəbəkəsi və avtomatik JSON sinxronizasiyası. | [Data Reposu](https://github.com/SuleimanIELTS/SuleimanIELTS) |
+| 🔒 **[SuleimanIELTS](https://github.com/SuleimanIELTS/SuleimanIELTS)** | `Private` / `Core Vault` | **Məxfi Data Mərkəzi və Obsidian LLM Wiki:** 400+ xam tədris materialı (tələbə esseləri, Cambridge PDF-ləri, iş vərəqləri), 60+ səhifəlik əlaqəli Obsidian bilik şəbəkəsi (Listening Traps Taxonomy, Four-Skills Matrix, Cambridge 19–21 analizləri) və avtomatik JSON sinxronizasiyası. | [Data Reposu](https://github.com/SuleimanIELTS/SuleimanIELTS) |
 | ⚙️ **[.github](https://github.com/SuleimanIELTS/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilat üzrə qlobal təsvirlər, ekosistem xəritəsi və ictimai standartlar. | [.github Reposu](https://github.com/SuleimanIELTS/.github) |
 
 ---
@@ -61,6 +61,8 @@ Bu platforma məşhur **Engnovate** platforması ilə tam sinxron və yanaşı (
    - Task 1 və Task 2 üçün akademik strukturlar, giriş/overview şablonları və bağlayıcı ifadələr (*cohesive devices*).
 6. 🖥️ **Engnovate Companion (Sidecar Mode):**
    - Saytı tək kliklə dar yan panel rejiminə keçirərək Engnovate ilə paralel işləmə imkanı.
+7. 📖 **500 İngilis Sözü 25 Hekayədə (Bilingual Reader):**
+   - Hərəsində 20 hədəf söz olan 25 hekayə, paralel Azərbaycan dilində tərcümə, səsli tələffüz və aktiv yaddaş ("Test Rejimi") cədvəli.
 
 ---
 
