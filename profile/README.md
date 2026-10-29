@@ -8,9 +8,19 @@
 [![Target Band](https://img.shields.io/badge/🎯_Hədəf_Bal-Band_8.0+-10b981?style=for-the-badge)](https://suleimanielts.github.io)
 [![Cambridge Tests](https://img.shields.io/badge/📚_Cambridge-15_–_21_Academic-8b5cf6?style=for-the-badge)](https://suleimanielts.github.io)
 [![Engnovate Companion](https://img.shields.io/badge/⚡_Engnovate-Companion_Mode-f59e0b?style=for-the-badge)](https://suleimanielts.github.io)
+[![Private Data Access](https://img.shields.io/badge/🔒_Private_Data_Access-Request_via_Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanIELTS%20Private%20Data)
 [![Organization](https://img.shields.io/badge/Organization-SuleimanIELTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuleimanIELTS)
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> ### 🔒 Məxfi Məlumat Bazası və Giriş İcazəsi (Private Data & Repository Access Notice)
+> Bu təşkilatın əsas məlumat bazası, 400+ xam IELTS tədris və sınaq materialı, fərdi tələbə esseləri, Cambridge (15–21) sınaqları və 62 səhifəlik Obsidian LLM Wiki bilik şəbəkəsi saxlanılan **[`SuleimanIELTS`](https://github.com/SuleimanIELTS/SuleimanIELTS)** repozitoriyası **tamamilə məxfidir (Private)**.
+> 
+> **Giriş (Access) əldə etmək üçün müraciət:** Əgər tələbə, müəllim və ya əməkdaşlıq edən tərəfdaşsınızsa və məxfi tədris bazasına giriş əldə etmək istəyirsinizsə, elektron poçt vasitəsilə müraciət edə bilərsiniz:  
+> 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanIELTS%20Private%20Data)**
 
 ---
 
@@ -38,7 +48,7 @@ Bu platforma məşhur **Engnovate** platforması ilə tam sinxron və yanaşı (
 | Repozitoriya | Növü | Təsvir və Məqsəd | Keçid |
 | :--- | :--- | :--- | :--- |
 | 🌐 **[SuleimanIELTS.github.io](https://github.com/SuleimanIELTS/SuleimanIELTS.github.io)** | `Public` / `Pages` | **Canlı İnteraktiv Veb Platforma:** Apple minimalist dizayn sistemi, Speaking taymerləri, daxili Audio Recorder, C1/C2 Lexical Vault, Dark/Light rejim və Engnovate Sidecar rejimi. | [Canlı Sayt](https://suleimanielts.github.io) |
-| 🔒 **[SuleimanIELTS](https://github.com/SuleimanIELTS/SuleimanIELTS)** | `Private` / `Core Vault` | **Məxfi Data Mərkəzi və Obsidian LLM Wiki:** 400+ xam tədris materialı (tələbə esseləri, Cambridge PDF-ləri, iş vərəqləri), 60+ səhifəlik əlaqəli Obsidian bilik şəbəkəsi (Listening Traps Taxonomy, Four-Skills Matrix, Cambridge 19–21 analizləri) və avtomatik JSON sinxronizasiyası. | [Data Reposu](https://github.com/SuleimanIELTS/SuleimanIELTS) |
+| 🔒 **[SuleimanIELTS](https://github.com/SuleimanIELTS/SuleimanIELTS)** | `Private` / `Core Vault` | **Məxfi Data Mərkəzi və Obsidian LLM Wiki:** 400+ xam tədris materialı (tələbə esseləri, Cambridge PDF-ləri, iş vərəqləri), 60+ səhifəlik əlaqəli Obsidian bilik şəbəkəsi (Listening Traps Taxonomy, Four-Skills Matrix, Cambridge 19–21 analizləri) və avtomatik JSON sinxronizasiyası. | [🔒 Giriş Müraciəti (suleyman.hacizade1@gmail.com)](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanIELTS%20Private%20Data) |
 | ⚙️ **[.github](https://github.com/SuleimanIELTS/.github)** | `Public` / `Profile` | **Təşkilat Profili:** Bütün təşkilat üzrə qlobal təsvirlər, ekosistem xəritəsi və ictimai standartlar. | [.github Reposu](https://github.com/SuleimanIELTS/.github) |
 
 ---
